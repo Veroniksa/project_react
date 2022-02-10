@@ -1,0 +1,35 @@
+body{
+    background-color: azure;
+}
+.MessageList{
+    text-align: center;
+    color: blueviolet;
+    width: 75%;
+    margin: 0 auto;
+}
+
+.MessageListForm{
+    margin: 10px;
+}
+
+.MessageListInput{
+    border-radius: 8%;
+    border: 1px solid cyan;
+    color: blueviolet;
+}
+
+.MessageListBTN{
+    padding: 0;
+    border-radius: 20%;
+    border: 1px solid azure;
+    background: aquamarine;
+    margin-left: 10px;
+    color: blueviolet;
+    cursor: pointer;
+}
+
+.listItem{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
